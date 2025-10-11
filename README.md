@@ -15,3 +15,11 @@ https://www.privacyguides.org/en/
 https://gwern.net/changelog
 
 https://tech.marksblogg.com/
+
+# Books
+
+https://cacr.uwaterloo.ca/hac/
+
+https://fhetextbook.github.io/
+
+https://visionbook.mit.edu/
