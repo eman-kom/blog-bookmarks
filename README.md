@@ -16,6 +16,8 @@ https://gwern.net/changelog
 
 https://tech.marksblogg.com/
 
+https://news.alvaroduran.com/
+
 # Books
 
 https://cacr.uwaterloo.ca/hac/
