@@ -30,6 +30,8 @@ https://www.makingsoftware.com/
 
 https://cbloomrants.blogspot.com/
 
+https://ciechanow.ski/
+
 # Companies
 
 https://engineering.fb.com/
