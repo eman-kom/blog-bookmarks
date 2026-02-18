@@ -74,4 +74,9 @@ https://www.fuzzingbook.org/
 
 https://labs.acme.byu.edu/Pages/intro.html
 
-https://datascale-ai.github.io/data_engineering_book/en/
+https://datascale-ai.github.io/data_engineering_book/en/\
+
+https://agentic-patterns.com/
+
+https://pysdr.org/
+
