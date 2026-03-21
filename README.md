@@ -4,10 +4,6 @@ https://soatok.blog/
 
 https://xeiaso.net/blog/
 
-https://en.algorithmica.org/hpc/
-
-https://wetw0rk.github.io/posts/0x00-introduction-to-windows-kernel-exploitation/
-
 https://www.privacyguides.org/en/
 
 https://gwern.net/changelog
@@ -31,6 +27,8 @@ https://www.makingsoftware.com/
 https://cbloomrants.blogspot.com/
 
 https://ciechanow.ski/
+
+https://entropicthoughts.com/index
 
 # Companies
 
@@ -79,6 +77,10 @@ https://datascale-ai.github.io/data_engineering_book/en/\
 https://agentic-patterns.com/
 
 https://pysdr.org/
+
+https://en.algorithmica.org/hpc/
+
+https://wetw0rk.github.io/posts/0x00-introduction-to-windows-kernel-exploitation/
 
 # Tools
 
