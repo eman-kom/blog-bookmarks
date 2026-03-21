@@ -80,3 +80,9 @@ https://agentic-patterns.com/
 
 https://pysdr.org/
 
+# Tools
+
+https://tui.studio/
+
+https://excalidraw.com/
+
