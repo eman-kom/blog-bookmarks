@@ -84,6 +84,8 @@ https://en.algorithmica.org/hpc/
 
 https://wetw0rk.github.io/posts/0x00-introduction-to-windows-kernel-exploitation/
 
+https://theartofhpc.com/
+
 # Tools
 
 https://tui.studio/
