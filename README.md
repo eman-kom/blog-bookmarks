@@ -60,6 +60,8 @@ https://blog.janestreet.com/
 
 https://modal.com/blog
 
+https://cefboud.com/
+
 # Books
 
 https://cacr.uwaterloo.ca/hac/
