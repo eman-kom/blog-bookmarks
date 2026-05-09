@@ -92,6 +92,8 @@ https://www.wiisfi.com/
 
 https://crackingwalnuts.com/linux
 
+https://www.lighterra.com/articles/
+
 # Tools
 
 https://tui.studio/
