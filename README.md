@@ -90,9 +90,12 @@ https://theartofhpc.com/
 
 https://www.wiisfi.com/
 
+https://crackingwalnuts.com/linux
+
 # Tools
 
 https://tui.studio/
 
 https://excalidraw.com/
 
+https://www.virustotal.com/
