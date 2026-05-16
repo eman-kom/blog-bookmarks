@@ -94,6 +94,8 @@ https://crackingwalnuts.com/linux
 
 https://www.lighterra.com/articles/
 
+https://meshtastic.org/docs
+
 # Tools
 
 https://tui.studio/
