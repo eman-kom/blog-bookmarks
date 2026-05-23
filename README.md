@@ -103,3 +103,7 @@ https://tui.studio/
 https://excalidraw.com/
 
 https://www.virustotal.com/
+
+# Others
+
+https://runrepeat.com/guides/energy-return-in-running-shoes
