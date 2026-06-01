@@ -62,6 +62,8 @@ https://modal.com/blog
 
 https://cefboud.com/
 
+https://cryptography101.ca/
+
 # Books
 
 https://cacr.uwaterloo.ca/hac/
