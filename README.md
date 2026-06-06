@@ -116,6 +116,10 @@ https://asana.com/resources/theory-of-constraints
 
 https://dev.to/mohammed_27c42362d82e94dd/kubernetes-as-a-control-system-beyond-orchestration-towards-autonomy-3j3h
 
+https://relaxdiego.com/2021/05/rediscovering-devops.html
+
+https://samof76.space/kubernetes-in-anger.html
+
 # Others
 
 https://runrepeat.com/guides/energy-return-in-running-shoes
