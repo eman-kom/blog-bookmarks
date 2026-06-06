@@ -120,6 +120,16 @@ https://relaxdiego.com/2021/05/rediscovering-devops.html
 
 https://samof76.space/kubernetes-in-anger.html
 
+# gpu
+
+https://docs.expanse.sh/
+
+https://www.systalyze.com/utilyze
+
+https://eunomia.dev/
+
+https://jaso1024.com/mvidia/
+
 # Others
 
 https://runrepeat.com/guides/energy-return-in-running-shoes
