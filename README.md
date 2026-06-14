@@ -102,6 +102,8 @@ https://meshtastic.org/docs
 
 https://use-the-index-luke.com/
 
+https://ma-lab-berkeley.github.io/deep-representation-learning-book/
+
 # Tools
 
 https://tui.studio/
