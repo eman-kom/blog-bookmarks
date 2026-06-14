@@ -32,6 +32,8 @@ https://entropicthoughts.com/index
 
 https://s4dbrd.github.io/
 
+https://sazak.io/
+
 # Companies
 
 https://engineering.fb.com/
