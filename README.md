@@ -80,15 +80,13 @@ https://www.fuzzingbook.org/
 
 https://labs.acme.byu.edu/Pages/intro.html
 
-https://datascale-ai.github.io/data_engineering_book/en/\
+https://datascale-ai.github.io/data_engineering_book/en/
 
 https://agentic-patterns.com/
 
 https://pysdr.org/
 
 https://en.algorithmica.org/hpc/
-
-https://wetw0rk.github.io/posts/0x00-introduction-to-windows-kernel-exploitation/
 
 https://theartofhpc.com/
 
@@ -104,6 +102,8 @@ https://use-the-index-luke.com/
 
 https://ma-lab-berkeley.github.io/deep-representation-learning-book/
 
+https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
+
 # Tools
 
 https://tui.studio/
@@ -113,8 +113,6 @@ https://excalidraw.com/
 https://www.virustotal.com/
 
 https://vibehood.app/
-
-https://challenge.stealthymcstealth.com/
 
 # SRE related
 
@@ -126,6 +124,10 @@ https://relaxdiego.com/2021/05/rediscovering-devops.html
 
 https://samof76.space/kubernetes-in-anger.html
 
+https://dl.bobpony.com/
+
+https://challenge.stealthymcstealth.com/
+
 # gpu
 
 https://docs.expanse.sh/
@@ -136,6 +138,14 @@ https://eunomia.dev/
 
 https://jaso1024.com/mvidia/
 
+# cyber security
+
+https://ost2.fyi/
+
+https://www.corelan.be/index.php/category/exploit-writing-tutorials/?sorting=date_asc
+
+https://wetw0rk.github.io/posts/0x00-introduction-to-windows-kernel-exploitation/
+
 # Others
 
 https://runrepeat.com/guides/energy-return-in-running-shoes
@@ -143,3 +153,5 @@ https://runrepeat.com/guides/energy-return-in-running-shoes
 https://sharedphysics.com/good-careers-at-bad-companies/
 
 https://ribbonfarm.com/series/the-gervais-principle/
+
+
