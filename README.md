@@ -104,6 +104,8 @@ https://ma-lab-berkeley.github.io/deep-representation-learning-book/
 
 https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 
+https://saylesss88.github.io/index.html
+
 # Tools
 
 https://tui.studio/
