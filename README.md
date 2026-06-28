@@ -148,6 +148,8 @@ https://eunomia.dev/
 
 https://jaso1024.com/mvidia/
 
+https://hpc-wiki.info/hpc/HPC_Wiki
+
 # cyber security
 
 https://ost2.fyi/
