@@ -152,6 +152,10 @@ https://jaso1024.com/mvidia/
 
 https://hpc-wiki.info/hpc/HPC_Wiki
 
+https://roofline.dev/
+
+https://www.tensortonic.com/
+
 # cyber security
 
 https://ost2.fyi/
