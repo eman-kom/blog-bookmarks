@@ -108,6 +108,10 @@ https://saylesss88.github.io/index.html
 
 https://www.makingsoftware.com/chapters
 
+https://w.pitula.me/fintech-engineering-handbook/
+
+https://mlc.ai/modern-gpu-programming-for-mlsys/index.html
+
 # Tools
 
 https://tui.studio/
@@ -117,6 +121,8 @@ https://excalidraw.com/
 https://www.virustotal.com/
 
 https://vibehood.app/
+
+https://sebastianraschka.com/llm-architecture-gallery/
 
 # SRE related
 
@@ -157,5 +163,7 @@ https://runrepeat.com/guides/energy-return-in-running-shoes
 https://sharedphysics.com/good-careers-at-bad-companies/
 
 https://ribbonfarm.com/series/the-gervais-principle/
+
+https://planetscale.com/blog/the-feedback-loops-behind-kubernetes
 
 
