@@ -112,6 +112,8 @@ https://w.pitula.me/fintech-engineering-handbook/
 
 https://mlc.ai/modern-gpu-programming-for-mlsys/index.html
 
+https://linuxgd.medium.com/kernel-tuning-for-high-performance-linux-servers-e5452aabd2f6
+
 # Tools
 
 https://tui.studio/
