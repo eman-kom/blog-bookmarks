@@ -166,6 +166,8 @@ https://roofline.dev/
 
 https://www.tensortonic.com/
 
+https://www.ubicloud.com/blog/virtualizing-nvidia-hgx-b200-gpus-with-open-source
+
 # cyber security
 
 https://ost2.fyi/
