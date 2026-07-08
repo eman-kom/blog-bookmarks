@@ -118,6 +118,10 @@ https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromoso
 
 https://www.cggonzalez.com/blog/index.html
 
+https://arxiv.org/pdf/2606.24937
+
+https://crimede-coder.com/blogposts/2026/LLMsForMortals
+
 # Tools
 
 https://tui.studio/
