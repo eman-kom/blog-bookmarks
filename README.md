@@ -114,6 +114,10 @@ https://mlc.ai/modern-gpu-programming-for-mlsys/index.html
 
 https://linuxgd.medium.com/kernel-tuning-for-high-performance-linux-servers-e5452aabd2f6
 
+https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/
+
+https://www.cggonzalez.com/blog/index.html
+
 # Tools
 
 https://tui.studio/
@@ -125,6 +129,8 @@ https://www.virustotal.com/
 https://vibehood.app/
 
 https://sebastianraschka.com/llm-architecture-gallery/
+
+https://swimlanes.io/
 
 # SRE related
 
