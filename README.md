@@ -138,6 +138,8 @@ https://sebastianraschka.com/llm-architecture-gallery/
 
 https://swimlanes.io/
 
+https://roadmap.sh/
+
 # SRE related
 
 https://asana.com/resources/theory-of-constraints
