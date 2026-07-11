@@ -150,6 +150,8 @@ https://dl.bobpony.com/
 
 https://challenge.stealthymcstealth.com/
 
+https://surfingcomplexity.blog
+
 # gpu
 
 https://docs.expanse.sh/
