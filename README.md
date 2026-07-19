@@ -122,7 +122,7 @@ https://www.cggonzalez.com/blog/index.html
 
 https://arxiv.org/pdf/2606.24937
 
-https://crimede-coder.com/blogposts/2026/LLMsForMortals
+https://immersivemath.com/ila/
 
 # Tools
 
