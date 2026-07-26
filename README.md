@@ -124,6 +124,8 @@ https://arxiv.org/pdf/2606.24937
 
 https://immersivemath.com/ila/
 
+https://www.susanrigetti.com/physics
+
 # Tools
 
 https://tui.studio/
