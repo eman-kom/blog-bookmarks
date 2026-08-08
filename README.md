@@ -38,6 +38,8 @@ https://labs.iximiuz.com/catalog
 
 https://hiraditya.github.io/
 
+https://www.aleksagordic.com/blog
+
 # Companies
 
 https://engineering.fb.com/
