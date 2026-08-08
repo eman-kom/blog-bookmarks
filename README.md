@@ -36,6 +36,8 @@ https://sazak.io/
 
 https://labs.iximiuz.com/catalog
 
+https://hiraditya.github.io/
+
 # Companies
 
 https://engineering.fb.com/
@@ -157,6 +159,8 @@ https://dl.bobpony.com/
 https://challenge.stealthymcstealth.com/
 
 https://surfingcomplexity.blog
+
+https://peteris.rocks/blog/htop/
 
 # gpu
 
