@@ -130,6 +130,8 @@ https://immersivemath.com/ila/
 
 https://www.susanrigetti.com/physics
 
+https://thinkinginpython.com/
+
 # Tools
 
 https://tui.studio/
