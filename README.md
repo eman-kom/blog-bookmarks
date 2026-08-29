@@ -132,6 +132,8 @@ https://www.susanrigetti.com/physics
 
 https://thinkinginpython.com/
 
+https://risk-engineering.org/course/
+
 # Tools
 
 https://tui.studio/
