@@ -168,6 +168,8 @@ https://surfingcomplexity.blog
 
 https://peteris.rocks/blog/htop/
 
+https://web.devopstopologies.com/
+
 # gpu
 
 https://docs.expanse.sh/
