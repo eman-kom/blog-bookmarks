@@ -208,4 +208,6 @@ https://ribbonfarm.com/series/the-gervais-principle/
 
 https://planetscale.com/blog/the-feedback-loops-behind-kubernetes
 
+https://loige.co/hidden-design-compromises-of-docker-layers/
+
 
