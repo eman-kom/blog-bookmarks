@@ -210,4 +210,4 @@ https://planetscale.com/blog/the-feedback-loops-behind-kubernetes
 
 https://loige.co/hidden-design-compromises-of-docker-layers/
 
-
+https://dental-scope.com/
