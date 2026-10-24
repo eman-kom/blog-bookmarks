@@ -40,6 +40,8 @@ https://hiraditya.github.io/
 
 https://www.aleksagordic.com/blog
 
+https://maevyn.codes/essays
+
 # Companies
 
 https://engineering.fb.com/
