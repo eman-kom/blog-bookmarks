@@ -78,6 +78,8 @@ https://cryptography101.ca/
 
 # Books
 
+https://network.nvidia.com/related-docs/whitepapers/InfiniBandFAQ_FQ_100.pdf
+
 https://cacr.uwaterloo.ca/hac/
 
 https://fhetextbook.github.io/
