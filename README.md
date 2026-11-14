@@ -42,6 +42,8 @@ https://www.aleksagordic.com/blog
 
 https://maevyn.codes/essays
 
+https://abroadreview.com/
+
 # Companies
 
 https://engineering.fb.com/
@@ -210,6 +212,10 @@ https://ribbonfarm.com/series/the-gervais-principle/
 
 https://planetscale.com/blog/the-feedback-loops-behind-kubernetes
 
+https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/
+
 https://loige.co/hidden-design-compromises-of-docker-layers/
 
 https://dental-scope.com/
+
+https://graybeard.ing/knowledge-is-not-experience/
